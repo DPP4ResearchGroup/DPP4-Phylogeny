@@ -2,6 +2,7 @@ abstract.tex
 untitled.tex
 Ansible_is_a_framework_to__.tex
 figures/Phylogenetic_Infrastructure copy/Phylogenetic_Infrastructure copy.png
+The_workflow_to_produce_the__.tex
 figures/Phylogenetic_Pipeline/Phylogenetic_Pipeline.png
 section_Results__.tex
 Results__.tex
