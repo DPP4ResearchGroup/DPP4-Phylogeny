@@ -6,4 +6,5 @@ The_workflow_to_produce_the__.tex
 figures/Phylogenetic_Pipeline/Phylogenetic_Pipeline.png
 section_Results__.tex
 section_Discussions__.tex
+The_rapid_development_in_genomic__.tex
 Results__.tex
