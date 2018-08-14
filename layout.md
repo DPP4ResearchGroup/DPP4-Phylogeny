@@ -1,6 +1,6 @@
 abstract.tex
 untitled.tex
-Ansible_is_a_framework_to__.tex
+Ansible_textsuperscript_textcopyright_is_a__.tex
 figures/Phylogenetic_Infrastructure copy/Phylogenetic_Infrastructure copy.png
 The_workflow_to_produce_the__.tex
 figures/Phylogenetic_Pipeline/Phylogenetic_Pipeline.png
