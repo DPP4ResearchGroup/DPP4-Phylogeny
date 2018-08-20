@@ -11,6 +11,7 @@ figures/Phylogenetic_Pipeline/Phylogenetic_Pipeline.png
 subsection_DPP4_evolution_at_protein__.tex
 In_this_study_we_investigated__.tex
 section_Results__.tex
+Alignments_Fish_Mamalian__.tex
 figures/FMaster/FMaster.svg
 section_Discussions__.tex
 The_rapid_development_in_genomic__.tex
