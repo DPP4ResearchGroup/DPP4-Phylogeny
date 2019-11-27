@@ -4,16 +4,14 @@ The_dipeptidyl_peptidase_4_DPP4__.tex
 untitled.tex
 subsection_Infrustructure_and_Analysis_Pipeline__.tex
 Ansible_textsuperscript_textcopyright_is_a__.tex
-figures/Phylogenetic_Infrastructure copy/Phylogenetic_Infrastructure copy.png
+figures/Phylogenetic_Infrastructure copy
 The_workflow_to_produce_the__.tex
 begin_table_caption_label_tab__.tex
-figures/Phylogenetic_Pipeline/Phylogenetic_Pipeline.png
+figures/Phylogenetic_Pipeline
 subsection_DPP4_evolution_at_protein__.tex
 In_this_study_we_investigated__.tex
-section_section_Results__1.tex
 Synteny_analysis_of_DPP4_loci__.tex
-figures/FMaster/FMaster.svg
+figures/FMaster
 section_Discussions__.tex
 The_rapid_development_in_genomic__.tex
 Due_to_the_limitation_availability__.tex
-Results__.tex
